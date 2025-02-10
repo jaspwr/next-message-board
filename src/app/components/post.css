@@ -1,0 +1,34 @@
+.post-container {
+  background-color: #333;
+  margin: 10px;
+  max-width: 500px;
+}
+
+.post-poster {
+  padding-left: 7px;
+  padding-top: 7px;
+  font-style: italic;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.post-contents {
+  padding: 8px;
+  font-size: 13px;
+  word-wrap: break-word;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.post-date {
+  font-size: 12px;
+  padding-right: 7px;
+}
+
+.flag {
+  height: 10px;
+}
